@@ -1,0 +1,60 @@
+
+
+Dancing Competitors Short Details: 
+
+CN 100 (JB) has overall score 3.2
+CN 101 (FB) has overall score 1.0
+CN 102 (SW) has overall score 4.8
+CN 103 (HS) has overall score 2.4
+CN 104 (NR) has overall score 3.0
+CN 105 (PLP) has overall score 1.0
+CN 106 (HG) has overall score 2.6
+CN 107 (HL) has overall score 4.0
+CN 108 (BB) has overall score 1.8
+CN 109 (OK) has overall score 3.6
+CN 110 (KE) has overall score 4.6
+---------------------------------------------
+
+
+Singing Competitors Short Details: 
+
+CN 200 (JB) has overall score 2.7
+CN 201 (FB) has overall score 2.3
+CN 202 (SW) has overall score 3.7
+CN 203 (HS) has overall score 2.7
+CN 204 (NR) has overall score 3.0
+CN 205 (PLP) has overall score 2.3
+CN 206 (HG) has overall score 2.0
+CN 207 (HL) has overall score 3.7
+CN 208 (BB) has overall score 3.0
+CN 209 (OK) has overall score 4.0
+CN 210 (KE) has overall score 3.7
+---------------------------------------------
+
+
+Acting Competitors Short Details: 
+
+CN 300 (JB) has overall score 4.3  (AKA:"007")
+CN 301 (FB) has overall score 1.8  (AKA:"Matthew Broderick")
+CN 302 (SW) has overall score 3.5  (AKA:"The Monkey King")
+CN 303 (HS) has overall score 3.0  (AKA:"King of Fouls")
+CN 304 (NR) has overall score 3.3  (AKA:"Black Widow")
+CN 305 (PLP) has overall score 3.0  (AKA:"The Skunk")
+CN 306 (HG) has overall score 2.8  (AKA:"Bad Guy")
+CN 307 (HL) has overall score 3.8  (AKA:"Hannibal the Cannibal")
+CN 308 (BB) has overall score 2.8  (AKA:"The Hobit")
+CN 309 (OK) has overall score 3.5  (AKA:"Old Ben")
+CN 310 (KE) has overall score 3.5  (AKA:"Superman")
+---------------------------------------------
+
+Competitor(s) with the highest overall score across all competitions: 
+
+Number:  102
+Name:    Sun Wukong
+Age:     850
+Country: China
+Level:   World Class
+Scores:  4 5 5 5 5
+Overall Score: 4.8
+
+---------------------------------------------
